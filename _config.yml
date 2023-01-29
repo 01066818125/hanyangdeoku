@@ -33,6 +33,9 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+  
+baseurl: /hanyangdeoku
+url: https://01066818125.github.io
 
 # Exclude from processing.
 # The following items will not be processed, by default.
